@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206430131219",
+    "firebase_url": "https://chandrhas-44461.firebaseio.com",
+    "project_id": "chandrhas-44461",
+    "storage_bucket": "chandrhas-44461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206430131219:android:609244ae150503c2111be6",
+        "android_client_info": {
+          "package_name": "com.hrfruitech.chandrhas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206430131219-7motej91n9e3cg5aehokfgkoet7bv1sp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hrfruitech.chandrhas",
+            "certificate_hash": "725a3b2d7da915feb67272eafc83536bee5b1071"
+          }
+        },
+        {
+          "client_id": "206430131219-evamjc8cn0a2mgahr3veeullv6kasotn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqrCmjFjSF6fy7Vd4qScjLi4JL5-T5brg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206430131219-evamjc8cn0a2mgahr3veeullv6kasotn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
